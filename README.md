@@ -2,7 +2,7 @@
 
 Quran App - Swift Playgrounds for Kids is a project designed to help Muslim kids learn Swift and SwiftUI through Swift Playgrounds. It combines coding and Quranic content, making programming fun, engaging, as well as helping them with their Deen.
 
-This project was part of my iOS App Development course, where kids learned how to customize views, experiment with layouts, and explore Swift basics.
+This project was part of my iOS App Development course, where kids learned how to customize views, experiment with layouts, and explore Swift basics. Created in March 2024.
 
 ## Features
 - Learn Swift and SwiftUI with Surahs and Ayahs from the Quran.
