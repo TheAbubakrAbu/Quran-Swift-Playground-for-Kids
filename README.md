@@ -1,6 +1,6 @@
-# Quran App - Swift Playgrounds for Kids
+# Quran App - Swift Playground for Kids
 
-Quran App - Swift Playgrounds for Kids is a project designed to help Muslim kids learn Swift and SwiftUI through Swift Playgrounds. It combines coding and Quranic content, making programming fun, engaging, as well as helping them with their Deen.
+Quran App - Swift Playground for Kids is a project designed to help Muslim kids learn Swift and SwiftUI through Swift Playground. It combines coding and Quranic content, making programming fun, engaging, as well as helping them with their Deen.
 
 This project was part of my iOS App Development course, where kids learned how to customize views, experiment with layouts, and explore Swift basics. Created in March 2024.
 
@@ -31,4 +31,4 @@ For feedback, feature requests, or questions, feel free to reach out:
 - **Website**: [abubakrelmallah.com](https://abubakrelmallah.com/)
 - **LinkedIn**: [linkedin.com/abubakr](https://www.linkedin.com/in/abubakr-elmallah-416a0b273/)
 
-Created by Abubakr Elmallah
+Created by **Abubakr Elmallah**
