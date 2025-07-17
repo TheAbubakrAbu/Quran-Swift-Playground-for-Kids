@@ -4,6 +4,12 @@ Quran App - Swift Playground for Kids is a project designed to help Muslim kids 
 
 This project was part of my iOS App Development course, where kids learned how to customize views, experiment with layouts, and explore Swift basics. Created in March 2024.
 
+Created by **Abubakr Elmallah** in **2023**.
+
+<a href="https://apps.apple.com/us/app/al-quran-beginner-quran/id6474894373?platform=iphone">
+  <img src="Logo.png" alt="Logo" width="120" style="border-radius:10px;"/>
+</a>
+
 ## Features
 - Learn Swift and SwiftUI with Surahs and Ayahs from the Quran.
 - Beginner-friendly code with clear comments for customization.
