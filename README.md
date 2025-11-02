@@ -7,7 +7,7 @@ This project was part of my iOS App Development course, where kids learned how t
 Created by **Abubakr Elmallah** in **2023**.
 
 <a href="https://apps.apple.com/us/app/al-quran-beginner-quran/id6474894373?platform=iphone">
-  <img src="Logo.png" alt="Logo" width="120" style="border-radius:10px;"/>
+  <img src="Logo.jpg" alt="Logo" width="120" style="border-radius:10px;"/>
 </a>
 
 ## Features
